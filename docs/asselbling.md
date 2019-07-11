@@ -6,6 +6,8 @@ TBS Discovery+NVIDIA Jetson TX2+Auvidea J120 载板，图中还有 PX4FLOW optic
 
 ## Jetson
 
-安装JetPack，我安装的是最新的4.2；
+Current redtail code tested and confirmed to work in the following configurations:
 
-然后创建一个 WiFi access point (AP) 热点，
+    JetPack 3.2 which contains CUDA 9.0 and TensorRT 3.0.
+    JetPack 3.3 which contains CUDA 9.0 and TensorRT 4.0.
+
